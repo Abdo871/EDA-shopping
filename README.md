@@ -8,3 +8,5 @@ Several deductions and analyses can be drawn from this data, including:
 Which products were sold the most in the last month?
 How have sales and revenue changed over the past few quarters?
 Understanding Customer demographics and their preferences
+
+https://www.kaggle.com/datasets/ruchi798/shopping-cart-database
